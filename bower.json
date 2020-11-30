@@ -1,0 +1,41 @@
+{
+  "name": "sprestlib-ispl",
+  "description": "SharePoint ISPL REST Web Services JavaScript Library",
+  "main": [
+    "dist/sprestlib.js"
+  ],
+  "dependencies": {
+    "promise": "^0.2.2"
+  },
+  "authors": [
+    "Saroj Kaashyap <https://github.com/sarojk562>"
+  ],
+  "license": "Apache",
+  "keywords": [
+    "javascript-rest-library",
+    "javascript-sharepoint-rest",
+    "javascript-sharepoint-services",
+    "javascript-sharepoint-web-services",
+    "javascript-sp-web-services",
+    "sharepoint-javascript",
+    "sharepoint-javascript-framework",
+    "sharepoint-javascript-library",
+    "sharepoint-javascript-list",
+    "sharepoint-javascript-rest",
+    "sharepoint-javascript-webpart",
+    "sharepoint-angular",
+    "sharepoint-react",
+    "sharepoint-node",
+    "sharepoint-rest-api",
+    "sharepoint-rest-library",
+    "sharepoint-web-services",
+    "sharepoint-web-services-library"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
